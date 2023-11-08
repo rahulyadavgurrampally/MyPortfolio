@@ -1,6 +1,11 @@
 # Hi there! 👋
 
 I'm Rahul Yadav Gurrampally, a software engineer with experience in backend development and a passion for coding. Here's a bit about my background:
+## Coding Platforms
+
+- Hackerrank : [Hackerrank](https://www.hackerrank.com/profile/rahulgurrampally)
+- Codeforces : [Codeforces](https://codeforces.com/profile/rahulyadav0508)
+- Codechef : [Codechef](https://www.codechef.com/users/rahulyadav0508)
 
 ## Work Experience
 
