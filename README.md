@@ -16,10 +16,6 @@ I'm Rahul Yadav Gurrampally, a software engineer with experience in backend deve
 - **Version Control:** Bitbucket, GitLab.
 - **Coding Practices:** Agile, Scrum, Kanban.
 
-## Connect with Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rahulyadavgurrampally)
-- Email: [Your Email Address](mailto:rahulyadavgurrampally@gmail.com)
 
 Feel free to explore my GitHub repositories and reach out to me if you'd like to collaborate or connect!
 
